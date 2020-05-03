@@ -1,0 +1,3 @@
+# World border file is required for latitude longitude calculation. Download using:
+
+wget http://thematicmapping.org/downloads/TM_WORLD_BORDERS-0.3.zip
